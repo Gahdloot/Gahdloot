@@ -1,6 +1,6 @@
 ### I knew You would find me 👋 😁
 <p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Backend+developer+with+Strong+Python+Foundation+.!;I+love+solving+problems;Welcome+to+my+Github+profile" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=I+help+companies+grow+from+the+Backend🖥💻;Strong+Python+Foundation+🐍!;I+love+solving+problems;Welcome+to+my+Github+profile" /></a>
 </p>
 
 <p align ="center">
