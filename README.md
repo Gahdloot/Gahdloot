@@ -63,7 +63,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... A car rental Application
-- 🌱 I’m currently learning ... Rust
+- 🌱 I’m currently learning ... Rust, Cloud Computing
 - 👯 I’m looking to collaborate on ... Problem solving projects
 - 🤔 I’m looking for help with ... Blockchain development
 - 💬 Ask me about ... Extrovert and a very good communicator
