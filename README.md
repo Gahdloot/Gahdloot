@@ -62,7 +62,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... A car rental Application
+- 🔭 I’m currently working on ... A car rental Application (hasnt been uploaded on github yet)
 - 🌱 I’m currently learning ... Rust, Cloud Computing
 - 👯 I’m looking to collaborate on ... Problem solving projects
 - 🤔 I’m looking for help with ... Blockchain development
