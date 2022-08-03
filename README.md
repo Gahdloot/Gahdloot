@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Rust, Cloud Computing
 - 👯 I’m looking to collaborate on ... Problem solving projects
 - 🤔 I’m looking for help with ... Blockchain development
-- 💬 Ask me about ... Extrovert and a very good communicator
+- 💬 Ask me about ... Backend Development 
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... I mostly commit to github after completing the project on my localserver
 
