@@ -19,6 +19,7 @@
   </p>
   
   <p >I specialize in the using of Python Programming Language and its' various frameworks and libraries such as Flask, Django, Numpy, Pandas, OpenCV, cryptograpyh, selenium, etc to solve problems creating backend servers and modules for applications and packages that are focus on changing the world, I also am highly skilled in database management </p>
+  <p>Update!!! I also write Javascript, Node.js to be precise as currently have been contribution to Node.js projects</p>
   
   ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <p align="center">
@@ -62,13 +63,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... On a Social Messaging app using Django
-- 🌱 I’m currently learning ... Rust, Cloud Computing
+- 🔭 I’m currently working on ... A referral Based System
+- 🌱 I’m currently learning ... Node.js, Rust, Cloud Computing
 - 👯 I’m looking to collaborate on ... Problem solving projects
 - 🤔 I’m looking for help with ... Blockchain development
 - 💬 Ask me about ... Backend Development 
 - 😄 Pronouns: ... He/Him 
-- ⚡ Fun fact: ... I mostly commit to github after completing the project on my localserver
+- ⚡ Fun fact: ... I Host A Tech Podcast (T in Tech)
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
