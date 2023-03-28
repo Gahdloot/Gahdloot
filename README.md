@@ -19,7 +19,7 @@
   </p>
   
   <p >I specialize in the using of Python Programming Language and its' various frameworks and libraries such as Flask, Django, Numpy, Pandas, OpenCV, cryptograpyh, selenium, etc to solve problems creating backend servers and modules for applications and packages that are focus on changing the world, I also am highly skilled in database management </p>
-  <p>Update!!! I also write Javascript, Node.js to be precise as currently have been contribution to Node.js projects</p>
+  <p>Update!!! I also write <strong>Javascript, Node.js</strong> to be precise as currently have been contribution to Node.js projects</p>
   
   ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   <p align="center">
