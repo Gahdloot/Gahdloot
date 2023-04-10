@@ -63,7 +63,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... A referral Based System
+- 🔭 I’m currently working on ... On A refferal system
 - 🌱 I’m currently learning ... Node.js, Rust, Cloud Computing
 - 👯 I’m looking to collaborate on ... Problem solving projects
 - 🤔 I’m looking for help with ... Blockchain development
